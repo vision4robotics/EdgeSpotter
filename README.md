@@ -7,7 +7,7 @@
  
 ![Workflow of our method](/fig/fig2.jpg)
 
-This figure shows the workflow of our EdgeSpotter.
+This figure shows the workflow of our EdgeSpotter. Check out the *[demo video](https://youtu.be/3ix5JWObuFE)* for more information.
 
 ## ✨ About Code
 
